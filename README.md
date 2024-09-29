@@ -3,9 +3,9 @@
 Here is a screenshot of the app:
 
 <p align="center">
-  <img src="/assets/images/one.png" alt="App Screenshot 1" width="30%" height="150px" style="display: inline-block; margin: 10px;" />
-  <img src="/assets/images/two.png" alt="App Screenshot 2" width="30%" height="150px" style="display: inline-block; margin: 10px;" />
-  <img src="/assets/images/three.jpg" alt="App Screenshot 3" width="30%" height="150px" style="display: inline-block; margin: 10px;" />
+  <img src="/assets/images/one.png" alt="App Screenshot 1" width="30%" height="350px" style="display: inline-block; object-fit: cover; margin: 10px;" />
+  <img src="/assets/images/two.png" alt="App Screenshot 2" width="30%" height="350px" style="display: inline-block; object-fit: cover; margin: 10px;" />
+  <img src="/assets/images/three.jpg" alt="App Screenshot 3" width="30%" height="350px" style="display: inline-block; object-fit: cover; margin: 10px;" />
 </p>
 
 ## Share Your Experience and Engage
